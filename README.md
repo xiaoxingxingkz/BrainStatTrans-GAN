@@ -1,5 +1,5 @@
 # Brain Status Transferring Generative Adversarial Network for Decoding Individualized Atrophy in Alzheimer’s Disease
 
 <p align="center">
-  <img src="https://github.com/xiaoxingxingkz/TPA-GAN/blob/main/Figure_in_paper/Fig1.png" width="700">
+  <img src="https://github.com/xiaoxingxingkz/BrainStatTrans-GAN/blob/main/img/result_show.gif" width="700">
 </p>
