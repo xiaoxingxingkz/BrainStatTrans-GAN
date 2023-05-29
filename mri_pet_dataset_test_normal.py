@@ -6,7 +6,7 @@ from torch.utils.data.dataset import Dataset
 import nibabel as nib
 
 class CN_Dataset(Dataset):
-    def __init__(self, image_path = './ADNI1_MRI_CN'): 
+    def __init__(self, image_path = './ADNI2_MRI_CN'): 
         self.path = image_path
         label = os.listdir(self.path)
         test_data = []
